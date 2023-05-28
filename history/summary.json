@@ -4,18 +4,20 @@
     "url": "https://kemdict.com",
     "icon": "https://kemdict.com/favicon.ico",
     "slug": "kemdict",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 360,
-    "timeWeek": 540,
-    "timeMonth": 475,
-    "timeYear": 475,
-    "dailyMinutesDown": {}
+    "time": 463,
+    "timeDay": 300,
+    "timeWeek": 503,
+    "timeMonth": 463,
+    "timeYear": 463,
+    "dailyMinutesDown": {
+      "2023-05-28": 0
+    }
   },
   {
     "name": "POJ ↔ TL conversion service",
