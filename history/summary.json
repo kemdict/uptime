@@ -25,17 +25,19 @@
     "url": "https://pojtl.kemdict.com",
     "icon": "https://icons.duckduckgo.com/ip3/pojtl.kemdict.com.ico",
     "slug": "poj-tl-conversion-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 199,
-    "timeWeek": 259,
+    "time": 265,
+    "timeDay": 216,
+    "timeWeek": 255,
     "timeMonth": 235,
-    "timeYear": 266,
-    "dailyMinutesDown": {}
+    "timeYear": 265,
+    "dailyMinutesDown": {
+      "2023-07-28": 0
+    }
   }
 ]
