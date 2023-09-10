@@ -1,7 +1,7 @@
 url: https://kemdict.com
-status: up
-code: 200
-responseTime: 118
-lastUpdated: 2023-09-09T23:11:53.484Z
+status: down
+code: 500
+responseTime: 803
+lastUpdated: 2023-09-10T22:46:00.752Z
 startTime: Wed May 10 2023 19:25:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
