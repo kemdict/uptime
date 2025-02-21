@@ -5,25 +5,17 @@
     "icon": "https://kemdict.com/favicon.ico",
     "slug": "kemdict",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
-    "time": 223,
-    "timeDay": 96,
-    "timeWeek": 110,
-    "timeMonth": 95,
-    "timeYear": 190,
-    "dailyMinutesDown": {
-      "2024-02-10": 500,
-      "2024-02-09": 458,
-      "2023-11-28": 12,
-      "2023-09-11": 992,
-      "2023-09-10": 74,
-      "2023-09-08": 12,
-      "2023-08-08": 12
-    }
+    "uptimeYear": "100.00%",
+    "time": 140,
+    "timeDay": 167,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 137,
+    "dailyMinutesDown": {}
   },
   {
     "name": "POJ ↔ TL conversion service",
@@ -31,20 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pojtl.kemdict.com.ico",
     "slug": "poj-tl-conversion-service",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 155,
-    "timeDay": 98,
-    "timeWeek": 96,
-    "timeMonth": 100,
-    "timeYear": 139,
+    "uptimeYear": "100.00%",
+    "time": 126,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-04-20": 15,
-      "2023-11-28": 12,
-      "2023-07-28": 111
+      "2024-04-20": 15
     }
   }
 ]
