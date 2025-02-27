@@ -5,16 +5,16 @@
     "icon": "https://kemdict.com/favicon.ico",
     "slug": "kemdict",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 214,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 139,
+    "time": 138,
+    "timeDay": 65,
+    "timeWeek": 141,
+    "timeMonth": 141,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 179,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 160,
+    "timeDay": 139,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2024-04-20": 15
     }
