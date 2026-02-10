@@ -1,7 +1,7 @@
 url: https://kemdict.com
-status: down
+status: degraded
 code: 403
-responseTime: 163
-lastUpdated: 2026-02-09T23:35:02.515Z
+responseTime: 14973
+lastUpdated: 2026-02-10T14:39:36.201Z
 startTime: 2023-05-10T19:25:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
