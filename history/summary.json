@@ -5,15 +5,15 @@
     "icon": "https://kemdict.com/favicon.ico",
     "slug": "kemdict",
     "status": "up",
-    "uptime": "79.84%",
+    "uptime": "79.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.48%",
+    "uptimeYear": "46.75%",
     "time": 479,
-    "timeDay": 175,
-    "timeWeek": 128,
-    "timeMonth": 302,
+    "timeDay": 145,
+    "timeWeek": 124,
+    "timeMonth": 294,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2026-06-03": 41,
@@ -211,7 +211,6 @@
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
-      "2025-11-20": 1440,
       "2026-10-13": 164
     }
   },
@@ -221,15 +220,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pojtl.kemdict.com.ico",
     "slug": "poj-tl-conversion-service",
     "status": "up",
-    "uptime": "79.28%",
+    "uptime": "79.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.51%",
+    "uptimeYear": "46.78%",
     "time": 629,
-    "timeDay": 190,
-    "timeWeek": 196,
-    "timeMonth": 257,
+    "timeDay": 215,
+    "timeWeek": 210,
+    "timeMonth": 253,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2026-06-03": 41,
@@ -426,8 +425,7 @@
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
-      "2025-11-21": 1440,
-      "2025-11-20": 1440
+      "2025-11-21": 1440
     }
   }
 ]
